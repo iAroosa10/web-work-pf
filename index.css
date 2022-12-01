@@ -1,0 +1,537 @@
+.container{
+    display: flex;
+    padding: 100px;
+}
+.text{
+    font-size: xx-large;
+}
+.text2{
+    text-align: center;
+    font-size: x-large;
+}
+.vid2{
+    text-align: center;
+}
+.card1 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container1 {
+    padding: 20px 16px;
+  }
+  .card2 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container2 {
+    padding: 20px 16px;
+  }
+  .card3 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container3 {
+    padding: 20px 16px;
+  }
+  .card4 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card4:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container4 {
+    padding: 20px 16px;
+  }
+  .card5 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card5:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container5 {
+    padding: 20px 16px;
+  }
+  .card6 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card6:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container6 {
+    padding: 20px 16px;
+  }
+  .card7 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card7:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container7 {
+    padding: 20px 16px;
+  }
+  .card8 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card8:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container8 {
+    padding: 20px 16px;
+  }
+  .card9 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card9:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container9 {
+    padding: 20px 16px;
+  }
+  .card10 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card10:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container10 {
+    padding: 20px 16px;
+  }
+  .card11 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card11:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container11 {
+    padding: 20px 16px;
+  }
+  .card12 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card12:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container12 {
+    padding: 20px 16px;
+  }
+  .card13 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card13:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container13 {
+    padding: 20px 16px;
+  }
+  .card14 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card14:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container14 {
+    padding: 20px 16px;
+  }
+  .card15 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card15:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container15 {
+    padding: 20px 16px;
+  }
+  .card16 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card16:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container16 {
+    padding: 20px 16px;
+  }
+  .card17 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card17:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container17 {
+    padding: 20px 16px;
+  }
+  .card18 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card18:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container18 {
+    padding: 20px 16px;
+  }
+  .card19 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card19:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container19 {
+    padding: 20px 16px;
+  }
+  .card20 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card20:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container20 {
+    padding: 20px 16px;
+  }
+  .card21 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card21:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container21 {
+    padding: 20px 16px;
+  }
+  .card22 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card22:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container22 {
+    padding: 20px 16px;
+  }
+  .card23 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card23:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container23 {
+    padding: 20px 16px;
+  }
+  .card24 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid rgb(223, 223, 240);
+    width: 400px;
+    height: 250px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card24:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container24 {
+    padding: 20px 16px;
+  }
+  .cr1{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr2{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr3{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr4{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr5{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr6{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr7{
+    padding: 82px;
+    margin: 12px;
+  }
+  .cr8{
+    padding: 82px;
+    margin: 12px;
+  }
+  .jb{
+    background-color: rgb(12, 12, 147);
+}
+.jbt{
+    display: flex;
+    padding: 100px;
+}
+.btn{
+  width: 400px;
+  height: 200px;
+  padding: 100px;
+  color: rgb(27, 200, 27);
+}
+
+
+.footer{
+    width: 100%;
+    height: 490px;
+    transition: all 0.2s;
+  }
+  .table{
+    margin: 0 150px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    /* margin-top: 222px; */
+  }
+  .table1{
+    /* margin: 0 150px; */
+    /* height: 100%; */
+    display: flex;
+    justify-content: space-around;
+    /* padding-top: 50px;
+    margin-top: 222px; */
+  }
+  .table div{
+    width: 230px;
+  }
+  .t-head{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .table li{
+    color: rgb(223, 221, 221);
+    padding-top: 10px;
+    font-weight: lighter;
+    font-size: 14px;
+    list-style: n;
+  }
+  ul{
+    text-decoration: none;
+  }
+
+  .img{
+    padding-right: 100px;
+  }
